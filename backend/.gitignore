@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# --- Environment variables ---
+.env
+*.env
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Byte-compiled / cache ---
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- PyInstaller ---
+*.spec
+
+# --- Testing ---
+.coverage
+htmlcov/
+.cache/
+
+# --- Others ---
+# Ignore any local secrets or configs
+*.local
