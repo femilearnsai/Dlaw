@@ -1,7 +1,0 @@
-{
-  "name": "LexAssist Admin",
-  "description": "Administrative dashboard for the WhatsApp Legal Assistant. Manage documents, monitor RAG pipeline performance, view audit logs, and test the legal bot response logic.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
